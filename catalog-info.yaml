@@ -13,3 +13,4 @@ spec:
     - ./domains/backstage-domain.yaml
     - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/vdesikanvmware/spring-petclinic/blob/main/catalog-info.yaml
+    - https://github.com/vdesikanvmware/spring-petclinic-original/blob/main/catalog-info.yaml
